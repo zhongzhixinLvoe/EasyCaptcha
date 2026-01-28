@@ -5,7 +5,8 @@
 
 
 ## 1.简介
-&emsp;Java图形验证码，支持gif、中文、算术等类型，可用于Java Web、JavaSE等项目。
+&emsp;基于EasyCaptcha的Java图形验证码，支持gif、中文、算术等类型，可用于Java Web、JavaSE等项目。
+优化了EasyCaptcha的验证码OOM问题
 
 ---
 
@@ -71,17 +72,7 @@ dependencies {
 ```
 
 ### 3.3.jar包下载
-[easy-captcha-1.6.2.jar](https://gitee.com/whvse/EasyCaptcha/releases)
-
-maven导入jar包，在项目根目录创建`libs`文件夹，然后pom.xml添加如下：
-```
-<dependency>
-  <groupId>com.github.whvcse</groupId>
-  <artifactId>easy-captcha</artifactId>
-  <version>1.6.1</version>
-  <systemPath>${basedir}/libs/easy-captcha-1.6.2.jar</systemPath>
-</dependency>
-```
+不提供jar 可以自己下载打包 或者自己集成代码
 
 ---
 
