@@ -5,8 +5,8 @@
 
 
 ## 1.简介
-&emsp;基于EasyCaptcha的Java图形验证码，支持gif、中文、算术等类型，可用于Java Web、JavaSE等项目。
-优化了EasyCaptcha的验证码OOM问题
+&emsp;基于ele-admin/EasyCaptcha优化的Java图形验证码，支持gif、中文、算术等类型，可用于Java Web、JavaSE等项目。
+优化了ele-admin/EasyCaptcha的验证码OOM问题
 
 ---
 
