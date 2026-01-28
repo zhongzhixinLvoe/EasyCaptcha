@@ -52,27 +52,7 @@
 ---
 
 ## 3.导入项目
-
-### 3.1.gradle方式的引入
-```text
-dependencies {
-    compile 'com.github.whvcse:easy-captcha:1.6.2'
-}
-```
-
-### 3.2.maven方式引入
-```xml
-<dependencies>
-   <dependency>
-      <groupId>com.github.whvcse</groupId>
-      <artifactId>easy-captcha</artifactId>
-      <version>1.6.2</version>
-   </dependency>
-</dependencies>
-```
-
-### 3.3.jar包下载
-不提供jar 可以自己下载打包 或者自己集成代码
+不提供jar和maven座标 可以自己下载打包 或者自己集成代码
 
 ---
 
