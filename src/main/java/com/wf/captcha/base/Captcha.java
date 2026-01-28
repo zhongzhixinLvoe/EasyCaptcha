@@ -1,10 +1,13 @@
 package com.wf.captcha.base;
 
+import com.wf.captcha.SpecCaptcha;
+
 import java.awt.*;
 import java.awt.geom.CubicCurve2D;
 import java.awt.geom.QuadCurve2D;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.Base64;
 
@@ -40,6 +43,19 @@ public abstract class Captcha extends Randoms {
     protected int height = 48; // 验证码显示高度
     protected int charType = TYPE_DEFAULT;  // 验证码类型
     protected String chars = null; // 当前验证码
+
+    private static final Font[] FONT_CACHE = new Font[FONT_NAMES.length];
+
+    static {
+        for (int i = 0; i < FONT_NAMES.length; i++) {
+            try (InputStream is =
+                         SpecCaptcha.class.getResourceAsStream("/" + FONT_NAMES[i])) {
+                FONT_CACHE[i] = Font.createFont(Font.TRUETYPE_FONT, is);
+            } catch (Exception e) {
+                throw new RuntimeException("Font initialization exception");
+            }
+        }
+    }
 
     /**
      * 生成随机验证码
@@ -123,6 +139,7 @@ public abstract class Captcha extends Randoms {
      * @return base64编码字符串
      */
     public String toBase64(String type) {
+        //TODO 如果是spring 项目  可以使用FastByteArrayOutputStream再进行优化
         ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
         out(outputStream);
         return type + Base64.getEncoder().encodeToString(outputStream.toByteArray());
@@ -273,8 +290,8 @@ public abstract class Captcha extends Randoms {
         setFont(font, Font.BOLD, size);
     }
 
-    public void setFont(int font, int style, float size) throws IOException, FontFormatException {
-        this.font = Font.createFont(Font.TRUETYPE_FONT, getClass().getResourceAsStream("/" + FONT_NAMES[font])).deriveFont(style, size);
+    public void setFont(int font, int style, float size) {
+        this.font = FONT_CACHE[font].deriveFont(style, size);
     }
 
     public int getLen() {
