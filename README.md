@@ -14,39 +14,39 @@
 
 ![验证码](https://camo.githubusercontent.com/0747662c43dbd1b4f0d5f8dadcc16509e1ebf34302eb3a4708e80ade9912e810/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73467245382e706e67) 
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msF0DP.png)
+![验证码](https://camo.githubusercontent.com/e65e53652a912f351e3ca27b4fefcb5da741c2d566705e970cb83bac6ef32c8d/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73463044502e706e67)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msFwut.png)
+![验证码](https://camo.githubusercontent.com/79206ea943010b8fc7ba38db2149a35225eeb36ae5ee246255690405d8a4731a/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73467775742e706e67)
 <br/>
-![验证码](https://s2.ax1x.com/2019/08/23/msFzVK.gif) 
+![验证码](https://camo.githubusercontent.com/0a110e2f1696b4e9428b76a0937d0f5efc9a653310b0fcb278814c13148a5cb6/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73467a564b2e676966) 
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msFvb6.gif)
+![验证码](https://camo.githubusercontent.com/fe4ca8b9a7545c7443ca147a2fed166a28a3128123b5131112ecc1876bbecfc4/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73467662362e676966)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msFXK1.gif)
+![验证码](https://camo.githubusercontent.com/855c7c701433cb7c6c09bbccaa583b12c4e8a51040e98cb436d1bc7413ae8620/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d7346584b312e676966)
 
 **算术类型：**
 
-![验证码](https://s2.ax1x.com/2019/08/23/mskKPg.png)
+![验证码](https://camo.githubusercontent.com/8ec1be2bd5295c5c0b07c015ea62b66c2aedaacec874568e61d785b0bcad6afe/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d736b4b50672e706e67)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msknIS.png)
+![验证码](https://camo.githubusercontent.com/2e653f3abca98a884e9f31de12f70147521137d5c70aa8ae43b22c9a6da3cc75/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d736b6e49532e706e67)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/mskma8.png)
+![验证码](https://camo.githubusercontent.com/850176ffc5781ea486e06dec84d371fb67f4b0837628130ec58560ac8dc8cf01/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d736b6d61382e706e67)
 
 **中文类型：**
 
-![验证码](https://s2.ax1x.com/2019/08/23/mskcdK.png)
+![验证码](https://camo.githubusercontent.com/f24a4380651948c7e9d1795a6f479b97ad36538d32a18982245a0ab1341204a3/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d736b63644b2e706e67)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msk6Z6.png)
+![验证码](https://camo.githubusercontent.com/52edd2820ced86416c9e6198a805cb5725274d4dd1fad5d840007af39931f93f/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d736b365a362e706e67)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msksqx.png)
+![验证码](https://camo.githubusercontent.com/c47a3d5b65082b098a275dac13bb0987add7c6959a279b281e785cf24f874759/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d736b7371782e706e67)
 
 **内置字体：**
 
-![验证码](https://s2.ax1x.com/2019/08/23/msAVSJ.png)
+![验证码](https://camo.githubusercontent.com/7f8f133cde3563b42cf5a9977ce6cfd85336df81235a90fc5132bf9acb8a8304/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d734156534a2e706e67)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msAAW4.png)
+![验证码](https://camo.githubusercontent.com/e737a2b797515119401885ba40ef69163b2d92c1c070ade9de224abc0ed647f4/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73416b59462e706e67)
 &emsp;&emsp;
-![验证码](https://s2.ax1x.com/2019/08/23/msAkYF.png)
+![验证码](https://camo.githubusercontent.com/44edcb7bdbdc78e55e6c2fc13fc2ab886b189b3cd232faddd10af7209feaeaf0/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73414157342e706e67)
 
 
 ---
@@ -331,7 +331,6 @@ public class CaptchaController {
 </script>
 ```
 
-> RedisUtil到这里获取[https://gitee.com/whvse/RedisUtil](https://gitee.com/whvse/RedisUtil)
 
 ---
 
@@ -342,6 +341,9 @@ public class CaptchaController {
 ---
 
 ## 8.更新日志
+
+- **2026-01-28 (v1.7.0)**
+    - 优化重复创建font问题解决OOM
 
 - **2019-08-23 (v1.6.2)**
     - 增加10种漂亮的内置字体，不依赖系统字体
