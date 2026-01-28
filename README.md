@@ -12,7 +12,7 @@
 
 ## 2.效果展示
 
-![验证码](https://s2.ax1x.com/2019/08/23/msFrE8.png) 
+![验证码](https://camo.githubusercontent.com/0747662c43dbd1b4f0d5f8dadcc16509e1ebf34302eb3a4708e80ade9912e810/68747470733a2f2f73322e617831782e636f6d2f323031392f30382f32332f6d73467245382e706e67) 
 &emsp;&emsp;
 ![验证码](https://s2.ax1x.com/2019/08/23/msF0DP.png)
 &emsp;&emsp;
